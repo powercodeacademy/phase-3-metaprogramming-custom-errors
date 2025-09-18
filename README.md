@@ -311,7 +311,7 @@ you must give the get_married method an argument of an instance of the person cl
 Beyonce
 ```
 
-Run `learn test` with the code above, and the tests should all pass!
+Run `bin/rspec` with the code above, and the tests should all pass!
 
 ## Conclusion
 
